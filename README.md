@@ -5,16 +5,13 @@
   * Sending a picture that could be browsed for once
     
   - Improvement 1:
-    Build a function that lets users to import customized gif/picture fils for stickers from               local album
-  - Improvement 2:
-    Build a function that lets users to search for chatting history based on keywords and specific date
-
+    Build a function that lets users to import customized gif/picture fils for stickers from local album
 
 2. Instagram:
   * Creating new account affiliated with a main account
   * Sending posts only shown to your friends in the 'Close Friends' list
 
-  - Improvement: Automatically enter the user page after their Instagram Story finish rather than          return back to the main page
+  - Improvement: Automatically enter the user page after their Instagram Story finish rather than return back to the main page
 
 
 3. Spotify:
