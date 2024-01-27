@@ -4,7 +4,7 @@
   * Re-editting the sent message 
   * Sending a picture that could be browsed for once
     
-  - Improvement 1:
+  - Improvement:
     Build a function that lets users to import customized gif/picture fils for stickers from local album
 
 2. Instagram:
