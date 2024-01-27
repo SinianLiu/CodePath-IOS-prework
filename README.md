@@ -20,7 +20,7 @@
     
   - Improvement: Build a comments section underneath songs for audience to share their comments
 
-DEMO GIF:
+DEMO GIF(it may take several seconds to show):
 
 ![demo](https://github.com/SinianLiu/CodePath-IOS-prework/assets/113807640/32a168e8-ce84-4600-8cb2-0f57b36d417c)
     
